@@ -1,8 +1,14 @@
-- name: Brandon Parsons
-  image: mojombo
+dciq:
+  name: DaycareIQ.com
+  image: /site_assets/images/logo.jpg
+  bio:
 
-- name: Parker Moore
-  github: parkr
+bkp:
+  name: Brandon Parsons
+  image: /site_assets/images/authors/brandon.jpg
+  bio: "Co-Founder of DaycareIQ.com. Professional engineer by day and web developer by night."
 
-- name: Liu Fengyun
-  github: liufengyun
+cp:
+  name: Craig Pearce
+  image: /site_assets/images/authors/craig.jpg
+  bio: "Co-Founder of DaycareIQ.com. Works in Public Health and big on making Alberta a better place."

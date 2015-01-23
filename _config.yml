@@ -1,5 +1,8 @@
 markdown: redcarpet
 highlighter: pygments
+sass:
+  sass_dir: site_assets/_sass
+  style: :compressed
 
 title: DaycareIQ.com Blog
 description: 'Updates, education and product information about Daycares!'
@@ -7,18 +10,13 @@ paginate: 5
 url: 'https://www.daycareiq.com/blog'
 baseurl: ''
 permalink: :categories/:year-:title
+logo: "/site_assets/images/logo.png"
+cover: "/site_assets/images/group_of_babies.jpg"
 
-exclude:
-  - .gitignore
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - THEME-LICENSE
-
-sass:
-  sass_dir: site_assets/_sass
-  style: :compressed
+email: info@daycareiq.com
+name: 'DaycareIQ.com'
+twitter: bkparso
+google_analytics_id: UA-XXXXXX-1
 
 defaults:
   -
@@ -27,24 +25,13 @@ defaults:
     values:
       layout: "page"
       sitemap: true
+      author: "dciq"
   -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-
-email: brandon.blog@brandonparsons.33mail.com
-logo: "/site_assets/images/logo.png"
-cover: "/site_assets/images/background_image.jpg"
-
-google_analytics:
-  tracking_id: UA-XXXXXX-1
-
-name: 'DaycareIQ.com'
-author: 'Brandon Parsons'
-author_image: '/site_assets/images/author.jpg'
-twitter: bkparso
 
 social:
   - icon: twitter
@@ -54,23 +41,31 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-# - icon:	github
-#   url:	https://github.com/brandonparsons
-#   desc:	Fork me on github
-#   share_url:
-#   share_title:
-#   share_link:
+  # - icon:	github
+  #   url:	https://github.com/brandonparsons
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  #  - icon:	facebook
+  #    url:	https://facebook.com/???
+  #    desc: Connect with me facebook
+  #    share_url: //www.facebook.com/sharer.php
+  #    share_title: ?t=
+  #    share_link: "&amp;u="
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  #  - icon:	google-plus
+  #    url:	https://google.com/???
+  #    desc:	Add me on google+
+  #    share_url:
+  #    share_title:
+  #    share_link:
+
+exclude:
+  - .gitignore
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - THEME-LICENSE
