@@ -1,0 +1,72 @@
+markdown: redcarpet
+highlighter: pygments
+
+title: DaycareIQ.com Blog
+description: "Updates, education and production information related to DaycareIQ.com"
+paginate: 5
+url: "https://daycareiq.com"
+baseurl: "/blog"
+permalink: :categories/:year-:title
+
+exclude:
+  - .gitignore
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - THEME-LICENSE
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      sitemap: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+email: brandon.blog@brandonparsons.33mail.com
+logo: "/assets/images/logo.png"
+cover: "/assets/images/background_image.jpg"
+
+google_analytics:
+  tracking_id: UA-XXXXXX-1
+
+name: 'DaycareIQ.com'
+author: 'Brandon Parsons'
+author_image: "/assets/images/author.jpg"
+twitter: bkparso
+
+social:
+  - icon: twitter
+    url: https://twitter.com/daycareiq
+    desc: Follow us on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+# - icon:	github
+#   url:	https://github.com/brandonparsons
+#   desc:	Fork me on github
+#   share_url:
+#   share_title:
+#   share_link:
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
