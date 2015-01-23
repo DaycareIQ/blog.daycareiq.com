@@ -5,7 +5,7 @@ title: DaycareIQ.com Blog
 description: 'Updates, education and product information about Daycares!'
 paginate: 5
 url: 'https://daycareiq.com/blog'
-baseurl: 'https://blog.daycareiq.com'
+baseurl: ''
 permalink: :categories/:year-:title
 
 exclude:
@@ -31,15 +31,15 @@ defaults:
       layout: "post"
 
 email: brandon.blog@brandonparsons.33mail.com
-logo: "https://blog.brandonparsons.me/assets/images/logo.png"
-cover: "https://blog.brandonparsons.me/assets/images/background_image.jpg"
+logo: "/blog_assets/images/logo.png"
+cover: "/blog_assets/images/background_image.jpg"
 
 google_analytics:
   tracking_id: UA-XXXXXX-1
 
 name: 'DaycareIQ.com'
 author: 'Brandon Parsons'
-author_image: "/assets/images/author.jpg"
+author_image: "/blog_assets/images/author.jpg"
 twitter: bkparso
 
 social:
