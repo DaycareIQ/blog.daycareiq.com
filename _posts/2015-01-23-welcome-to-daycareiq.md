@@ -2,6 +2,7 @@
 title: "Welcome to DaycareIQ!"
 tags:
     - updates
+    - featured
 description: An opening blog post for DaycareIQ.com.
 ---
 
