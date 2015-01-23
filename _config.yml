@@ -4,7 +4,7 @@ highlighter: pygments
 title: DaycareIQ.com Blog
 description: 'Updates, education and product information about Daycares!'
 paginate: 5
-url: 'https://daycareiq.com/blog'
+url: 'https://www.daycareiq.com/blog'
 baseurl: ''
 permalink: :categories/:year-:title
 
