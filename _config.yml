@@ -17,7 +17,7 @@ exclude:
   - THEME-LICENSE
 
 sass:
-    sass_dir: blog_assets/_sass
+    sass_dir: site_assets/_sass
     style: :compressed
 
 defaults:
@@ -35,15 +35,15 @@ defaults:
       layout: "post"
 
 email: brandon.blog@brandonparsons.33mail.com
-logo: "/blog_assets/images/logo.png"
-cover: "/blog_assets/images/background_image.jpg"
+logo: "/site_assets/images/logo.png"
+cover: "/site_assets/images/background_image.jpg"
 
 google_analytics:
   tracking_id: UA-XXXXXX-1
 
 name: 'DaycareIQ.com'
 author: 'Brandon Parsons'
-author_image: "/blog_assets/images/author.jpg"
+author_image: "/site_assets/images/author.jpg"
 twitter: bkparso
 
 social:
