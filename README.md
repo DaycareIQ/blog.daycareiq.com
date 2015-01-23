@@ -5,7 +5,7 @@ Blog for DaycareIQ.com
 
 `guard`
 
-This will start the Jekyll build, and livereload server watching for changes.
+This will start the Jekyll build, and livereload server watching for changes. LiveReload browser plugin will need to be installed/active for this to work.
 
 ## Info/Instructions ##
 
