@@ -17,8 +17,8 @@ exclude:
   - THEME-LICENSE
 
 sass:
-    sass_dir: site_assets/_sass
-    style: :compressed
+  sass_dir: site_assets/_sass
+  style: :compressed
 
 defaults:
   -
