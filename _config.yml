@@ -31,8 +31,8 @@ defaults:
       layout: "post"
 
 email: brandon.blog@brandonparsons.33mail.com
-logo: "/assets/images/logo.png"
-cover: "/assets/images/background_image.jpg"
+logo: "https://blog.brandonparsons.me/assets/images/logo.png"
+cover: "https://blog.brandonparsons.me/assets/images/background_image.jpg"
 
 google_analytics:
   tracking_id: UA-XXXXXX-1
