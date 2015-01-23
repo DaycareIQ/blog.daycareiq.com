@@ -16,6 +16,10 @@ exclude:
   - README.md
   - THEME-LICENSE
 
+sass:
+    sass_dir: blog_assets/_sass
+    style: :compressed
+
 defaults:
   -
     scope:
