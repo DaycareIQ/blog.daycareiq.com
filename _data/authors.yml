@@ -1,6 +1,6 @@
 dciq:
-  name: DaycareIQ.com
-  image: /site_assets/images/logo.jpg
+  name: DaycareIQ
+  image: /site_assets/images/logo.png
   bio:
 
 bkp:
@@ -11,4 +11,4 @@ bkp:
 cp:
   name: Craig Pearce
   image: /site_assets/images/authors/craig.jpg
-  bio: "Co-Founder of DaycareIQ.com. Works in Public Health and big on making Alberta a better place."
+  bio: "Co-Founder of DaycareIQ.com. Works in Public Health and big on making the community a better place."
