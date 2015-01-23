@@ -43,7 +43,7 @@ google_analytics:
 
 name: 'DaycareIQ.com'
 author: 'Brandon Parsons'
-author_image: "/site_assets/images/author.jpg"
+author_image: '/site_assets/images/author.jpg'
 twitter: bkparso
 
 social:

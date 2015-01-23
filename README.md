@@ -9,6 +9,7 @@ This will start the Jekyll build, and livereload server watching for changes.
 
 ## Info/Instructions ##
 
+- (Optional) Add `category` to front-matter & URL will be `/:category/(normal-permalink)`
 - Add tag `featured` to add to list of featured posts
     + Top of blog index page
     + Bottom of other posts

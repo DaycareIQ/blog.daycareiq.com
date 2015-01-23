@@ -3,7 +3,8 @@ title: "Welcome to DaycareIQ!"
 tags:
     - updates
     - featured
-description: An opening blog post for DaycareIQ.com.
+description: An opening blog post for DaycareIQ.com
+author: Brandon Parsons
 ---
 
 Hi there!
