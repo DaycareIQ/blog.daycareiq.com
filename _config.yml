@@ -5,7 +5,7 @@ title: DaycareIQ.com Blog
 description: 'Updates, education and product information about Daycares!'
 paginate: 5
 url: 'https://daycareiq.com/blog'
-baseurl: "https://daycareiq.com/blog"
+baseurl: 'https://blog.daycareiq.com'
 permalink: :categories/:year-:title
 
 exclude:
