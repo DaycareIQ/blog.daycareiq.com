@@ -4,7 +4,7 @@ tags:
     - updates
     - featured
 description: An opening blog post for DaycareIQ.com
-author: bkp
+author: 
 ---
 
 Hi there!

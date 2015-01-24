@@ -1,9 +1,9 @@
 dciq:
   name: DaycareIQ
   image: /site_assets/images/logo.png
-  bio:
+  bio: "Find your ideal daycare, today."
 
-bkp:
+bp:
   name: Brandon Parsons
   image: /site_assets/images/authors/brandon.jpg
   bio: "Co-Founder of DaycareIQ.com. Professional engineer by day and web developer by night."
