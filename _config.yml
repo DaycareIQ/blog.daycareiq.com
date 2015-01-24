@@ -7,7 +7,7 @@ sass:
 title: DaycareIQ.com Blog
 description: 'Updates, education and product information about Daycares!'
 paginate: 5
-url: 'https://www.daycareiq.com'
+url: 'https://blog.daycareiq.com'
 baseurl: ''
 permalink: /:categories/:year-:title
 logo: "/site_assets/images/logo.png"
