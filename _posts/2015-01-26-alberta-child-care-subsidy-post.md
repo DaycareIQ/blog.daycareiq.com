@@ -7,7 +7,7 @@ tags:
 description: Learn what the Alberta Child Care Subsidy is all about.  Learn whether you qualify or not, how to apply, where to apply and much more.
 author: cp
 ---
-#Alberta Child Care Subsidy#
+#Alberta Child Care Subsidy#  
 
 The Alberta Child Care Subsidy is a government funded program that provides financial assistance to low income families to help offset the cost of providing child care.
 
