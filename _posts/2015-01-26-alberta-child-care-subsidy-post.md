@@ -9,6 +9,8 @@ author: cp
 ---
 #Alberta Child Care Subsidy#
 
+The Alberta Child Care Subsidy is a government funded program that provides financial assistance to low income families to help offset the cost of providing child care.
+
 ##Sections##
 
 *	What is the Alberta Child Care Subsidy?
@@ -23,7 +25,6 @@ author: cp
 *	What If I Don't Want To Send My Kids To A Daycare, Are There Other Options For Subsidy?
 *	What is the Alberta Child Care Subsidy?
 
-The Alberta Child Care Subsidy is a government funded program that provides financial assistance to low income families to help offset the cost of providing child care.
 
 ###How Do I Know If I Qualify?###
 
@@ -32,7 +33,7 @@ Individuals qualify for the Alberta Child Care Subsidy if they meet the followin
 *	You or your spouse/partner, or the child receiving care are Canadian citizens or permanent residents of Canada and live in Alberta.
 *	You or your spouse/partner are an Alberta resident.
 *	Your children are 12 years of age or younger and are not yet attending Grade 7.
-*	You and your spouse/partner are currently working, attending school, looking for work or have special needs
+*	You and your spouse/partner are currently working, attending school, looking for work or have special needs  
 	**OR**  
 *	You or your spouse/partner stay-at-home and have your child(ren) enrolled in a licensed pre-school or approved early childhood development program.
 
@@ -55,11 +56,11 @@ Typically your day care provider will be able to answer many of your questions. 
 
 There are currently two ways to apply for the Alberta Child Care Subsidy.
 
-1. [You can apply directly on the Ministry website.]((https://www.childcaresubsidy.gov.ab.ca/ccs/ccs_public.nsf/PS2?OpenForm)
+1. [You can apply directly on the Ministry website.](https://www.childcaresubsidy.gov.ab.ca/ccs/ccs_public.nsf/PS2?OpenForm)
 
 2. You may also print off a form and fill it out by hand.
 
-	* You can mail the form into the following address:
+	You can mail the form into the following address:
 	Human Services
 	PO Box 1641, Station M
 	Edmonton, AB T5J 2N9
