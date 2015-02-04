@@ -1,4 +1,10 @@
-Finding Child Care
+---
+tags:
+    - alberta
+    - child care
+description: Finding the right child care is a big process, we have some tips to make it easier!
+author: cp
+---
 
 #What To Consider When Searching for Child Care#
 
