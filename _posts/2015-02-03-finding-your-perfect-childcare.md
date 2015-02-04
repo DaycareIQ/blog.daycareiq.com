@@ -26,7 +26,7 @@ All licensed child care centres in Alberta are subject to inspections.  The will
 
 There is one thing that DaycareIQ can't provide, a site visit.  We recommend that all parents visit their selected child care centres.  This will allow parents to meet the care providers, view the facilities and assess for a "good fit".  DaycareIQ users can use the communication tool to contact potential child care centres to set up tours.
 
-##Word of Mouth## 
+##Word of Mouth
 
 One of the greatest sources of information about child care is word of mouth.  Ask your friends, you colleagues, or your neighbours about any good experiences they had.  You might find they had great experiences, or you might find they had a bad experience, both are valuable pieces of information.  DaycareIQ is building a review feature to allow parents to share their experiences with the interested parents.  We hope you have a great experience with child care you find on DaycareIQ and will return to share that information with other parents!
 
