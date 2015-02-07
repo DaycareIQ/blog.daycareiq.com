@@ -2,11 +2,31 @@
 layout: nil
 ---
 callback(
-[{% for post in site.posts reversed | sort: title %} { "text": "{{post.title | replace:'"','\"'}}"
-  , "href": "{{post.url}}"
+[
+  {
+    "text": "Blog Homepage",
+    "href": "/"
+  },
+  {
+    "text": "Tags Page",
+    "href": "/tags"
+  },
+  {
+    "text": "DaycareIQ Home",
+    "href": "https://www.daycareiq.com"
+  },
+  {
+    "text": "DaycareIQ Operator/Admin Home",
+    "href": "https://admin.daycareiq.com"
+  },
+  {% for post in site.posts reversed | sort: title %} 
+    {
+      "text": "{{post.title | replace:'"','\"'}}",
+      "href": "{{post.url}}"
+    },
+  {% endfor %}
+  {
+    "text": "About DaycareIQ.com",
+    "href": "https://www.daycareiq.com/about"
   }
-,{% endfor %}{% for page in site.pages | sort: title %} { "text": "{{page.title | replace:'"','\"'}}"
-  , "href": "{{page.url}}"
-  }{% unless forloop.last %}
-,{% endunless%}{% endfor %}
 ])
