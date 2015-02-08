@@ -5,9 +5,6 @@ tags:
 description: Finding the right child care is a big process, we have some tips to make it easier!
 author: cp
 ---
-
-#What To Consider When Searching for Child Care#
-
 At DaycareIQ we want to help you find the perfect child care, whether that be daycare, after school care, day home or preschool.  Here are a few tips we have learned that should help your search.
 
 ##Location, Location, Location##
