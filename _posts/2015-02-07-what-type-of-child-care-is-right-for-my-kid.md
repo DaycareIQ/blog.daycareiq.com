@@ -1,10 +1,10 @@
-
 ---
 tags:
     - alberta
     - child care
 description: What type of child care is right for me?
 author: cp
+published: true
 ---
 
 There are many different types of child care available, we'll help you figure out what they all are, and what type works best for you and your child.
