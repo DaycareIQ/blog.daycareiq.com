@@ -1,7 +1,3 @@
----
-published: false
-title: "2015-03-07-Which-Type-Of-Child-Care-Is-Right-For-Me?.md"
----
 
 ---
 tags:
