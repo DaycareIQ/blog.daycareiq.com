@@ -4,6 +4,7 @@ tags:
   -resources
 description: Here is where you can go when you need more information about child care in Alberta.
 author: cp
+published: true
 ---
 
 There are a lot of great agencies and organizations within Alberta that you can go to with questions regarding child care.  Here at DaycareIQ we want to provide you with everything you need to ensure you are giving your child the greatest care.
