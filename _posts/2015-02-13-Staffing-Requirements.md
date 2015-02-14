@@ -1,7 +1,9 @@
 ---
 tags:
-  -staffing
-  -child care
+  - staffing
+  - child care
+  - staff certification
+  - first aid
 description: The staff that are responsible for looking after your children are such an important part of the centre.  We want to make you aware of the legal requirements that all staff members must follow and adhere to.
 author: cp
 published: true
