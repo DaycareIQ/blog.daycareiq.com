@@ -1,8 +1,9 @@
 ---
 tags:
-  -alberta
-  -resources
-description: Here is where you can go when you need more information about child care in Alberta.
+  - alberta
+  - resources
+  - child care
+description: Providing links for when you need more information about child care in Alberta.
 author: cp
 published: true
 ---
