@@ -1,6 +1,7 @@
 ---
 tags:
-  - staffing
+  - child care staffing
+  - care givers
   - child care
   - staff certification
   - first aid
