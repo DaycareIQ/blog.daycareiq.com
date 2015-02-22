@@ -3,6 +3,7 @@ tags:
   - alberta
   - definitions
   - child care
+  - featured
 description: Understanding the language of child care is important to finding the right child care.
 author: cp
 published: true
