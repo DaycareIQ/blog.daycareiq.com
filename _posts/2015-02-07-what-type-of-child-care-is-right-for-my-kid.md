@@ -11,7 +11,7 @@ There are many different types of child care available, we'll help you figure ou
 
 ##Daycare Programs##
 
-Likely the most common type of child care is daycare.  It is so common, we even named our site after it, DaycareIQ!  Daycare programs provide care to your child for the entire day.  Typically daycares operate from 7am to 5pm.  They operate in a dedicate building (sometimes a school or a church).  Enrolling your child in a licensed daycare program allows you to apply for the Alberta Child Care Subsidy ([see our blog post on the subsidy here](http://blog.daycareiq.com/2015-the-alberta-child-care-subsidy/)).  Daycare provide care to children within 3 age categories; infants, pre-school and kindergarten age.
+Likely the most common type of child care is daycare.  It is so common, we even named our site after it, DaycareIQ!  Daycare programs provide care to your child for the entire day.  Typically daycares operate from 7am to 5pm.  They operate in a dedicated building (sometimes a school or a church).  Enrolling your child in a licensed daycare program allows you to apply for the Alberta Child Care Subsidy ([see our blog post on the subsidy here](http://blog.daycareiq.com/2015-the-alberta-child-care-subsidy/)).  Daycare provide care to children within 3 age categories; infants, pre-school and kindergarten age.
 
 ##Pre-School Programs##
 
