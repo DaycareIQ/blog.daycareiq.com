@@ -27,7 +27,7 @@ One thing that makes a child care centre great is the food.  As parents, you wan
 
 ##Healthy Parents, Healthy Children##
 
-This great resources was put together by Alberta Health Services.  Most new parents will have recieved a copy from their physician, if you didn't, you can find tons of great information about raising a healthy child [here](http://www.healthyparentshealthychildren.ca/).
+This great resource was put together by Alberta Health Services.  Most new parents will recieve a hard copy from their physician.  You can also visit their website to find tons of great information about raising a healthy child [here](http://www.healthyparentshealthychildren.ca/).
 
 ##Immunizations##
 
