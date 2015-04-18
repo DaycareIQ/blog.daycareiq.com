@@ -21,7 +21,7 @@ The word *approved* is very important.  In Alberta, just like any other province
 
 Approved family day homes each belong to an a contracted family day home agency.  These agencies help to train, monitor and approve each day home.  These agencies will also work with you and your family to find a proper fit for your child.  They will ensure you get placed in an approved family day home that is safe, caring and responsible.  DaycareIQ is working with these agencies to provide you a list of all the family day homes in the Calgary area.  Stay tuned for more!
 
-You can find local agencies, and also ask more questions to the Calgary local Family Service Authority, [click here to email them](mailto:calgaryareacfsa.info@gov.ab.ca).
+You can find local agencies, and also ask more questions to the Calgary local Family Service Authority, [click here to email them](mailto:calgaryareacfsa.info@gov.ab.ca?subject=Question from a DaycareIQ reader).
 
 ##Are Family Day Homes Held To High Standards?##
 
