@@ -7,6 +7,8 @@ description: Many child care centres use the Montessori Method of Education.  Do
 author: cp
 published: false
 ---
+Full Disclosure - we aren't experts in the Montessori Method.  The following post is based upon our research using various websites.  However, we wanted those that have never heard of Montessori or weren't sure what it meant to have a high level idea of what Montessori is all about!  If you have questions or would like to read more, I have included some links to more information at the bottom.
+
 
 ###The History of The Montessori Method
 
