@@ -15,7 +15,9 @@ Family day homes provide care to up to 6 children maximum in a home based settin
 
 ##What Does It Mean By *Approved* Family Day Home?##
 
-The word *approved* is very important.  In Alberta, just like any other province, you can find day homes in just about every city and town, and in just about every community.  However, some of these are not *approved*.  In Alberta, these people are consider private babysitters and are not subject to the same monitoring, inspections or training as many other day homes.  Therefore, when looking for a day home, make sure they are in fact an *approved* family day home.  You will know whether they are approved or not by whether they display the official sticker, an example can be seen [here](http://humanservices.alberta.ca/images/alberta-day-home-trademark.jpg)
+The word *approved* is very important.  In Alberta, just like any other province, you can find day homes in just about every city and town, and in just about every community.  However, some of these are not *approved*.  In Alberta, these people are consider private babysitters and are not subject to the same monitoring, inspections or training as many other day homes.  Therefore, when looking for a day home, make sure they are in fact an *approved* family day home.  You will know whether they are approved or not by whether they display the official sticker seen below.  
+
+![alt text](http://humanservices.alberta.ca/images/alberta-day-home-trademark.jpg "Approved Family Day Home").
 
 ##How Do I Locate A Family Day Home?##
 
