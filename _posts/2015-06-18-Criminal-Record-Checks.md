@@ -14,7 +14,7 @@ The [Alberta Child Care Regulation](http://www.qp.alberta.ca/documents/Regs/2008
 >25 (1) A licence holder must ensure that  
  &nbsp;&nbsp;&nbsp;(a) each staff member and each volunteer who has unsupervised access to children  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) is an adult, and  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) **provides to the licence holder a criminal record check, including a vulnerable sector search, dated &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;not earlier than 6 months prior to the date of commencement with the program and every 3 years after &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that date,**
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) **provides to the licence holder a criminal record check, including a vulnerable sector search, dated not earlier than 6 months prior to the date of commencement with the program and every 3 years after that date,**
  
  As you can see, each staff member and volunteer must provide a [criminal record check and vulnerable sector search](http://www.rcmp-grc.gc.ca/cr-cj/index-eng.htm).  The criminal record check must be recent (within 6 months) and must be renewed every 3 years.  These criminal record checks need to be on the premise and available to view by licensing staff.
  
@@ -25,8 +25,8 @@ Staff may start working at a location without the criminal record check in place
 In family day homes, there may be other members of the household that don't provide any care for the children, but are still present during the day.  This issue is very clearly outlined in the [Family Day Home Standards Manual for Alberta](http://humanservices.alberta.ca/documents/family-day-home-standards-manual.pdf).  On page 17, the manual says;
 
 >Agencies must require that family day home provider applicants are at least 18 years old and that they provide the following documents prior to approval and providing child care:  
-&nbsp;&nbsp;&nbsp;**1.** A completed criminal record check, including vulnerable sector search, for the applicant and anyone who is &nbsp;&nbsp;&nbsp;over 18 years of age or older, and who either resides with the provider in the proposed family day home or who &nbsp;&nbsp;&nbsp;may be in the provider’s home on a regular basis during the provider’s regular operating hours.  
-&nbsp;&nbsp;&nbsp;**2.** A statement signed by the applicant disclosing any prior criminal involvement of any person younger than 18 &nbsp;&nbsp;&nbsp;years old who resides with the provider in the proposed family day home.  
+&nbsp;&nbsp;&nbsp;**1.** A completed criminal record check, including vulnerable sector search, for the applicant and anyone who is over 18 years of age or older, and who either resides with the provider in the proposed family day home or who may be in the provider’s home on a regular basis during the provider’s regular operating hours.  
+&nbsp;&nbsp;&nbsp;**2.** A statement signed by the applicant disclosing any prior criminal involvement of any person younger than 18 years old who resides with the provider in the proposed family day home.  
 
 We hope that by knowing the rules and regulations in place for child care operators, you can feel comfortable sending you child to a facility.  If you ever have any questions or concerns, it is important to speak with the child care operator.  They are your best resource for questions related to criminal record checks.  You may also contact your local RCMP or police detachment. 
  
