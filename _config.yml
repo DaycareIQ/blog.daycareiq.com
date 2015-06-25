@@ -12,7 +12,7 @@ production_url: https://blog.daycareiq.com
 baseurl: ''
 permalink: /:categories/:year-:title
 logo: "/site_assets/images/logo.png"
-cover: "/site_assets/images/group_of_babies.jpg"
+cover: "/site_assets/images/group_of_kids.jpg"
 
 email: info@daycareIQ.com
 name: 'DaycareIQ.com'
