@@ -10,7 +10,7 @@ title: Why Should I Use DaycareIQ - Parent Edition?
 author: cp
 description: Why should parents use DaycareIQ instead of other options out there?  What advantage does DaycareIQ provide?
 published: true
----
+---  
 #Why Should Parents Choose DaycareIQ?
 
 Parents have many options when researching child care.  We think DaycareIQ is your best option and I'm here to tell you why.
