@@ -3,9 +3,7 @@ tags:
   - Alberta
   - child care
   - daycareIQ
-  -parents
-  -inspections
-  -
+  - parents
 title: Why Should I Use DaycareIQ - Parent Edition?
 author: cp
 description: Why should parents use DaycareIQ instead of other options out there?  What advantage does DaycareIQ provide?
