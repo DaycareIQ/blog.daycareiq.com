@@ -63,4 +63,4 @@ Some parties made some big promises and some big changes to other areas that we 
 *  Attention parents of multiples!  Tom Mulcair and NDP are the only party to specifically address parents of multiples!  If elected, the NDP will *double* parental leave for parents of multiples.
 *  In addition, the NDP will make EI benefits accessible to parents who lose their job after taking maternity leave.
 
-**That's it!**  We hope you enjoyed DaycareIQ's comprehensive guide to all things parents for the upcoming election on October 19, 2015.  No matter who you support, remember to get out there and vote!  We hope we have made your decision a little clearer.
+**That's it!**  We hope you enjoyed [DaycareIQ's](https://www.daycareiq.com) comprehensive guide to all things parents for the upcoming election on October 19, 2015.  No matter who you support, remember to get out there and vote!  We hope we have made your decision a little clearer.
