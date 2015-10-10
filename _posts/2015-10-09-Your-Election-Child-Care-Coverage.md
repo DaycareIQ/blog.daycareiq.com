@@ -46,6 +46,8 @@ Elizabeth May and the Green Party of Canada have, perhaps have the least amount 
 *  Work with the provinces, territories and Indigenous communities to establish childcare spaces for those that need it.
 *  The full Green Party of Canada platform can be read [here](http://www.greenparty.ca/sites/default/files/platform_english_web.pdf).
 
+***
+
 What do you think?  Email us and tell us your thoughts, we would love to hear from you!
 
 ***
