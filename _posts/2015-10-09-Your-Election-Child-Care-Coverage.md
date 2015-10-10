@@ -14,7 +14,9 @@ published: true
 ---
 #Your Fall, Federal Election Childcare Promises
 
-We waited with bated breath for all the parties to release their platforms.  It took a long time, but today on October 9, 2015, the final two remaining parties released their platforms.  We are pleased to bring you a quick breakdown of each parties promise when it comes to childcare.  There are lots of changes when it comes to maternity leave and employment benefits.  We'll look at them near the bottom (some very big changes there, so keep reading!).
+We waited with bated breath for all the parties to release their platforms.  It took a long time, but today on October 9, 2015, the final two remaining parties released their platforms.  We are pleased to bring you a quick breakdown of each parties promise when it comes to childcare.  
+
+There are lots of changes when it comes to maternity leave and employment benefits.  Look for them at the bottom (some very big changes there, so keep reading!).
 
 ##The Conservative Party of Canada  
 Being the incumbent party, we had a better idea of what they were planning and only expected a few minor changes here and there.  Below are the changes the CPC plans to introduce if elected on October 19, 2015.  
@@ -63,4 +65,4 @@ Some parties made some big promises and some big changes to other areas that we 
 *  Attention parents of multiples!  Tom Mulcair and NDP are the only party to specifically address parents of multiples!  If elected, the NDP will *double* parental leave for parents of multiples.
 *  In addition, the NDP will make EI benefits accessible to parents who lose their job after taking maternity leave.
 
-That's it!  DaycareIQ's comprehensive guide to all things parents for the upcoming election on October 19, 2015.  No matter who you support, remember to get out there and vote!  We hope we have made your decision a little clearer.
+**That's it!**  We hope you enjoyed DaycareIQ's comprehensive guide to all things parents for the upcoming election on October 19, 2015.  No matter who you support, remember to get out there and vote!  We hope we have made your decision a little clearer.
