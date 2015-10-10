@@ -9,11 +9,9 @@ tags:
   - childcare
 author: cp
 description: Breaking down the fall federal election promises relating to childcare.
-title: Your Fall, Federal Election Childcare Promises
+title: Your Fall, Federal Election Childcare Promises - All In One Place!
 published: true
 ---
-#Your Fall, Federal Election Childcare Promises
-
 We waited with bated breath for all the parties to release their platforms.  It took a long time, but today on October 9, 2015, the final two remaining parties released their platforms.  We are pleased to bring you a quick breakdown of each parties promise when it comes to childcare.  
 
 There are lots of changes when it comes to maternity leave and employment benefits.  Look for them at the bottom (some very big changes there, so keep reading!).
