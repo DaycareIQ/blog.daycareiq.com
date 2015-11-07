@@ -11,7 +11,7 @@ description: Analyzing the Alberta provincial budget with the focus on children 
 title: The First NDP Budget in Alberta
 published: true
 ---
-With the federal election over, the political picture in this country is a little bit clearer.  Rachel Notley and the Alberta NDP party released the 2015 budget.  You can read the whole thing [here](http://finance.alberta.ca/publications/budget/budget2015-october/index.html) but we at DaycareIQ know you are busy and want to summarize the section important to child care.
+With the federal election over, the political picture in this country is a little bit clearer.  Rachel Notley and the Alberta NDP party released the 2015 budget.  You can read the whole thing [here](http://finance.alberta.ca/publications/budget/budget2015-october/index.html) but we at DaycareIQ know you are busy and want to summarize the sections important to child care.
 
 #Alberta Child Benefit
 
