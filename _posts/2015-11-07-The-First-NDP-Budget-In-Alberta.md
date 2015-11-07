@@ -26,6 +26,7 @@ To receive the benefit, you must submit an provincial income tax return (even if
 #Alberta Family Employment Tax Credit (AFETC)
 
 The NDP government has also adjusted the AFETC to help working families with children.  Two changes to this benefit will help Alberta families.  
+
 1. The phase in rate will increase to 11% (from the current 8%).
 2. The benefit will begin to phase out once the families net income reaches $41 250 (currently the threshold is $36 778).
 
