@@ -17,7 +17,7 @@ With the federal election over, the political picture in this country is a littl
 
 The biggest change is the introduction of the *Alberta Child Benefit*.  This benefit provides up to $2 750 per year for Alberta families with less than $41 220 in annual income.  It is expected to help nearly 235 000 children in the province.
 
-This benefit will begin in July of 2016 and will arrive in payments 4 times per year.  Families with one children will receive $1 100 per year, and for families with more, they will receive an extra $550 for each child, up to the maximum of $2 750.  
+This benefit will begin in July of 2016 and will arrive in payments 4 times per year.  Families with one child will receive $1 100 per year, and for families with more, they will receive an extra $550 for each child, up to the maximum of $2 750.  
 
 The benefit amount does depend on the number of children you have, but also your income.  Families with *net* incomes between $0 and $25 550 will receive the maximum benefit.  Between $25 550 and $41 220 the benefit is reduced and is not eligible for those with a net income over $41 220.
 
