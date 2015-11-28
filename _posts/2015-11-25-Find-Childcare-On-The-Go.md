@@ -17,5 +17,5 @@ Our goal at DaycareIQ is to help parents find the best childcare out there!  The
 
 For parents that want to search for childcare facilities on the go, we have developed a simple iPhone app for you to download.  Click [this link](https://itunes.apple.com/ca/app/child-care-finder/id1058737569?mt=8) to download the app today!  Once you have tried it out, we would love for you to rate and review the app!  Thanks!
 
-![Screenshot from our iOS app!](insert link here)
+![Screenshot from our iOS app!](https://github.com/DaycareIQ/blog.daycareiq.com/blob/gh-pages/Simulator%20Screen%20Shot%20Nov%2027%2C%202015%2C%207.13.34%20PM.png)
 
