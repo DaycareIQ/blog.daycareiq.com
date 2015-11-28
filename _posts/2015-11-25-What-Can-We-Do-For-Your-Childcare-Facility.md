@@ -7,6 +7,7 @@ tags:
   - preschool
   - dayhomes
 description: We put together this quick and easy infographic on what we have to offer child care facilities such as daycares, preschools, dayhomes or after school care.
+title: What Can We Do For Your Childcare Facility?
 author: cp
 published: true
 ---
