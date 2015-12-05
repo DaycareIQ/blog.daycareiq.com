@@ -30,18 +30,18 @@ A licensed facility must adhere to the [Child Care Licensing Regulation](http://
   *  When a incident report needs to be filed and who needs to be made aware
   *  What type of discipline can be administered to a child
   *  When transporting children to another location or field trip, who needs to be informed, who needs to give permission and what the      child care provider is required to bring
-  *  How to care for sick children  
-  *  What type of food is provided for children  
-  *  How children should be feed  
-  *  How many children are allowed at any time (ie. capacity)  
-  *  What type of diapering facilities are available  
-  *  How big the outdoor playspace needs to be  
-  *  What kind of furniture and toys are available (both inside and outside)  
-  *  What type of records are required to be kept, and for how long  
-  *  Staffing requirements (Read more [here](http://blog.daycareiq.com/2015-Staffing-Requirements/))  
-  *  How often criminal record checks need to be provided by the staff  
-  *  Ratio of children to staff (and how this changes when age groups are mixed)  
-  *  And Many More Topics!  
+  *  How to care for sick children
+  *  What type of food is provided for children
+  *  How children should be feed
+  *  How many children are allowed at any time (ie. capacity)
+  *  What type of diapering facilities are available
+  *  How big the outdoor playspace needs to be
+  *  What kind of furniture and toys are available (both inside and outside)
+  *  What type of records are required to be kept, and for how long
+  *  Staffing requirements (Read more [here](http://blog.daycareiq.com/2015-Staffing-Requirements/))
+  *  How often criminal record checks need to be provided by the staff
+  *  Ratio of children to staff (and how this changes when age groups are mixed)
+  *  And Many More Topics!
   
 ##Is Licensed Care Better Than Unlicensed Care?
 
