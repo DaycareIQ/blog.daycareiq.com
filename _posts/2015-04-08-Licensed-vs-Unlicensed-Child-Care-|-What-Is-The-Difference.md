@@ -24,7 +24,7 @@ For a new facility, the initial license will last 1 year.  After this, the facil
 
 ##What Does Being "Licensed" Mean?
 
-A licensed facility must adhere to the [Child Care Licensing Regulation](http://www.qp.alberta.ca/1266.cfm?page=2008_143.cfm&leg_type=Regs&isbncln=9780779735570) which is different than the Child Care Licensing Act.  The regulation determines the specific rules and regulations that the facility must follow.  For example, the following area's are covered by the provincial regulation.
+A licensed facility must adhere to the [Child Care Licensing Regulation](http://www.qp.alberta.ca/1266.cfm?page=2008_143.cfm&leg_type=Regs&isbncln=9780779735570) which is different than the Child Care Licensing Act.  The regulation determines the specific rules and regulations that the facility must follow.  For example, the following area's are covered by the provincial regulation.  
   * How medication is administered and recorded
   * When a incident report needs to be filed and who needs to be made aware
   * What type of discipline can be administered to a child
