@@ -40,5 +40,5 @@ Visit the [KidGenius](https://kidgenius.daycareiq.com/?utm_source=blog&utm_mediu
 
 Here is a screenshot of what our KidGenius app looks like!  
 
-![KidGenius App](https://github.com/DaycareIQ/blog.daycareiq.com/blob/gh-pages/DaycareIQ.png)
+![KidGenius App](blog.daycareiq.com/DaycareIQ.png)
 
