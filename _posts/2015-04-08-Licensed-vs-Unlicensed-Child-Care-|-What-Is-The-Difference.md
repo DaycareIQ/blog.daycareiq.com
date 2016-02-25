@@ -49,6 +49,8 @@ It's impossible to say.  There are many great unlicensed facilities that exist i
 
 We at DaycareIQ have elected *not* to list unlicensed facilities on our site.  We feel comfortable showing parents facilities that have been inspected by the Child and Family Services Authority.  We feel there are many great licensed facilities for parents to choose from!
 
+####Update With our new tool **KidGenius** we have decided to open our software to any child care facility!  Contact us at [info@DaycareIQ.com](mailto:info@daycareiq.com) to get started!
+
 ##What About Family Day Homes?
 
 Family day homes are child care facilities that care for 6 or less children in a private home.  They are not required to be licensed by the province, but many are regulated by an approved family day home agency.  They have their own set of standards to follow which can be found [here](http://humanservices.alberta.ca/documents/family-day-home-standards-manual.pdf).  Private day homes also exist - they aren't part of an agency and are technically considered a private babysitter.  
