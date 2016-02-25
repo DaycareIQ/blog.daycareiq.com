@@ -17,8 +17,3 @@ Fill out one single form, and you are good to go for any child care facility in 
 
 <p style="text-align: center;"><strong>Sound interesting? <a href="https://www.daycareiq.com">Find your perfect daycare </a>on DaycareIQ!</strong></p>
 
-----
-
-If you operate a daycare or child care facility, DaycareIQ will provide a suite of tools to make your job easier. Centralized registration, tracking, attendance records and emergency contact information are all at your fingertips.  Sign up and we can help streamline your processes so you can get back to provinding excellent care!
-
-<p style="text-align: center;"><strong>Run a child care facility? <a href="https://admin.daycareiq.com">Get started with DaycareIQ</a> today!</strong></p>
