@@ -30,13 +30,15 @@ We understand that attendance is an important part of a great child care centre.
 
 **All of these features are included with KidGenius!**
 
-**KidGenius** also includes _free_ featured listing on [DaycareIQ](https://www.daycareIQ.com), _free_ concierge  onboarding and _free_ access to our iPhone/iPad app!
+**KidGenius** also includes _free_ featured listing on [DaycareIQ](https://www.daycareiq.com/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog
+), _free_ concierge  onboarding and _free_ access to our iPhone/iPad app!
 
-Visit the [KidGenius](https://kidgenius.daycareiq.com) today for more details!  
+Visit the [KidGenius](https://kidgenius.daycareiq.com/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog
+) today for more details!  
 
 ---
 
-Here is a screenshot of what our KidGenius app looks like!
+Here is a screenshot of what our KidGenius app looks like!  
 
 ![KidGenius App](https://github.com/DaycareIQ/blog.daycareiq.com/blob/gh-pages/DaycareIQ.png)
 
