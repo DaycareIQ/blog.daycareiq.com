@@ -36,4 +36,4 @@ We understand that attendance is an important part of a great child care centre.
 Visit the [KidGenius](https://kidgenius.daycareiq.com/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog
 ) today for more details!  
 
-![KidGenius Features!](blog.daycareiq.com/site_assets/images/KidGenius_feature_page.png)
+![KidGenius Features!](https://github.com/DaycareIQ/blog.daycareiq.com/blob/gh-pages/site_assets/images/KidGenius_feature_page.png)
