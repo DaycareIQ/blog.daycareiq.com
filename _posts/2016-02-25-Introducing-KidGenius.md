@@ -8,6 +8,7 @@ tags:
   - Canada
   - software
   - family day home
+  - KidGenius
 description: We built a new child care communication app from scratch.  We think it will help child care operators connect with parents better!
 title: Introducing KidGenius!
 author: cp
