@@ -171,6 +171,7 @@ DEPENDENCIES
   guard
   guard-jekyll-plus
   guard-livereload
+  jekyll-paginate
 
 BUNDLED WITH
    1.11.2

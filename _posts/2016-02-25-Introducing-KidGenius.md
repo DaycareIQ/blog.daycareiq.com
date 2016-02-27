@@ -9,6 +9,7 @@ tags:
   - software
   - family day home
   - KidGenius
+  - featured
 description: We built a new child care communication app from scratch.  We think it will help child care operators connect with parents better!
 title: Introducing KidGenius!
 author: cp
@@ -34,7 +35,7 @@ We understand that attendance is an important part of a great child care centre.
 **KidGenius** also includes _free_ featured listing on [DaycareIQ](https://www.daycareiq.com/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog
 ), _free_ concierge  onboarding and _free_ access to our iPhone/iPad app!
 
-Visit the [KidGenius](https://kidgenius.daycareiq.com/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog
+Visit [KidGenius](https://kidgenius.daycareiq.com/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog
 ) today for more details!  
 
 ![KidGenius Features!](https://blog.daycareiq.com/site_assets/images/KidGenius_feature_page.png)

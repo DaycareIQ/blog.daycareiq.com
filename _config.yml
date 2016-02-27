@@ -1,8 +1,16 @@
-markdown: redcarpet
-highlighter: pygments
 sass:
   sass_dir: site_assets/_sass
   style: :compressed
+gems:
+  - jekyll-paginate
+exclude:
+  - .gitignore
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Guardfile
+  - README.md
+  - THEME-LICENSE
 
 title: DaycareIQ.com Blog
 description: 'Updates, education and product information about Daycares!'
@@ -13,7 +21,6 @@ baseurl: ''
 permalink: /:categories/:year-:title
 logo: "/site_assets/images/logo.png"
 cover: "/site_assets/images/group_of_kids.jpg"
-
 email: info@daycareIQ.com
 name: 'DaycareIQ.com'
 twitter: daycareiq
@@ -62,50 +69,3 @@ social:
   #    share_url:
   #    share_title:
   #    share_link:
-
-prose:
-  siteurl: 'http://blog.daycareiq.com'
-  relativeLinks: 'http://blog.daycareiq.com/links.jsonp'
-  # rooturl: '_posts' # uncomment to limit editing to the _posts directory
-  media: 'site_assets/article_images'
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          placeholder: 'Title, if not directly correct from filename'
-      - name: "description"
-        field:
-          element: "text"
-          placeholder: 'Meta description, for SEO. Limit to ~170 characters.'
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "featured"
-              value: "featured"
-            - name: "updates"
-              value: "updates"
-            - name: "alberta"
-              value: "alberta"
-            - name: "daycares"
-              value: "daycares"
-            - name: "regulation"
-              value: "regulation"
-            - name: "accreditation"
-              value: "accreditation"
-            - name: "subsidy"
-              value: "subsidy"
-            - name: "child care"
-              value: "child care"
-
-exclude:
-  - .gitignore
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - Guardfile
-  - README.md
-  - THEME-LICENSE
