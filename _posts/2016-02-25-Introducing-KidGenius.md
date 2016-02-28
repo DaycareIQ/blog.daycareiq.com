@@ -16,7 +16,7 @@ author: cp
 published: true
 ---
 
-We heard over and over again that child care operators really wanted a way to _connect_ with parents!  We heard this loud and clear and decided to undertake a large task.  We have spent the last 5 months building an entirely new tool that we call **KidGenius**!  KidGenius is a tool that helps child care staff connect with parents on a daily basis.  It will bring the staff and parent together like never before!
+We heard over and over again that child care operators really wanted a way to _connect_ with parents!  We heard this loud and clear and decided to undertake a large task.  We have spent the last 5 months building an entirely new tool that we call [**KidGenius**](https://kidgenius.daycareiq.com/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog)!  KidGenius is a tool that helps child care staff connect with parents on a daily basis.  It will bring the staff and parent together like never before!
 
 **KidGenius** will allow child care staff to:
 

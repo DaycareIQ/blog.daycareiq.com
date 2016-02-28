@@ -3,6 +3,17 @@
 
 {% assign author_hash = site.data.authors[page.author] %}
 
+{% if page.tags contains "Kidgenius" %}
+  {% assign is_kidgenius_post = true %}
+{% elsif page.tags contains "kidgenius" %}
+  {% assign is_kidgenius_post = true %}
+{% elsif page.tags contains "KidGenius" %}
+  {% assign is_kidgenius_post = true %}
+{% else %}
+  {% assign is_kidgenius_post = false %}
+{% endif %}
+
+
 <!DOCTYPE html>
 <html>
   {% include head.html %}
@@ -52,6 +63,19 @@
           </div>
           <a name="topofpage"></a>
           {{content}}
+
+          <hr>
+          {% if is_kidgenius_post %}
+            <div style="text-align:center;">
+              <p>Do you run a child care center or dayhome? Sign up for KidGenius today!</p>
+              <a class="kidgenius-button" href="https://kidgenius.daycareiq.com/sign-up/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog">Get started for free</a>
+            </div>
+          {% else %}
+            <div style="text-align:center;">
+              <p>Have a child in daycare or in a dayhome? Want to know about your child's day? KidGenius is the perfect tool to keep you up to date.</p>
+              <a class="kidgenius-button" href="https://kidgenius.daycareiq.com/sign-up/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog">Get your childcare using KidGenius</a>
+            </div>
+          {% endif %}
         </section>
         <!-- post footer used to be here -->
         <div class="bottom-teaser cf">

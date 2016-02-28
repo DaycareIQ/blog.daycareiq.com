@@ -15,5 +15,4 @@ Browsing daycares in your city from a convenient map view, along with having inf
 
 Fill out one single form, and you are good to go for any child care facility in the city. Plus, you can be sure the child care operators have your child's most recent health & emergency contact information.
 
-<p style="text-align: center;"><strong>Sound interesting? <a href="https://www.daycareiq.com">Find your perfect daycare </a>on DaycareIQ!</strong></p>
-
+We think you'll be able to [find your perfect daycare on DaycareIQ](https://www.daycareiq.com)!
