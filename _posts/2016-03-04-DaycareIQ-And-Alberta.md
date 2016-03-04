@@ -19,6 +19,6 @@ We have spent a lot of time fine tuning the map feature of DaycareIQ.  We think 
 ![DaycareIQ Edmonton Search](https://blog.daycareiq.com/site_assets/images/Edmonton_DaycareIQ.png)
 
 ---
-And for comparison sake, here is a search for Edmonton child care centres using the Alberta provincial website.  I think you can see the benefits of using [DaycareIQ](https://www.daycareiq.com)!
+And for comparison sake, here is a search for Edmonton child care centres using the Alberta provincial website.  I think you can see the benefits of using [DaycareIQ](https://www.daycareiq.com/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog)!
 
 ![Provincial Edmonton Search](https://blog.daycareiq.com/site_assets/images/Edmonton_default.png)
