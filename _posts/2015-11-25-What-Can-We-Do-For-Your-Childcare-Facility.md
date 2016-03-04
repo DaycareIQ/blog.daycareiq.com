@@ -15,4 +15,4 @@ We wanted to put together a simple to read infographic on what we can offer to c
 
 Here's the infographic!  We hope you like it, feel free to share with your childcare operator!
 
-![DaycareIQ Operator Material](https://blog.daycareiq.com/DaycareIQ_operator%20features.png)
+![DaycareIQ Operator Material](https://blog.daycareiq.com/site_assets/images/DaycareIQ_operator_features.png)
