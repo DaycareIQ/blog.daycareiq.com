@@ -15,7 +15,7 @@ We have spent a lot of time fine tuning the map feature of DaycareIQ.  We think 
 
 ---
 
-####Here is a screenshot from a Edmonton search on DaycareIQ!
+<strong>Here is a screenshot from a Edmonton search on DaycareIQ!</strong>
 
 ![DaycareIQ Edmonton Search](https://blog.daycareiq.com/site_assets/images/Edmonton_DaycareIQ.png)
 
