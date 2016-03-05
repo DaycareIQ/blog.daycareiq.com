@@ -11,27 +11,6 @@ sitemap:
 .cf
   @include clearfix
 
-.kidgenius-button
-  background-color: #f06292
-  color: #FFFFFF !important
-  text-decoration: none !important
-  font-weight: bold
-  font-size: 20px
-  height: 54px
-  line-height: 56px
-  text-decoration: none
-  color: #fff
-  text-align: center
-  letter-spacing: .5px
-  border: none
-  border-radius: 2px
-  display: inline-block
-  outline: 0
-  padding: 0 2rem
-  text-transform: uppercase
-  box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
-
-
 $rs: 16px
 
 $font-serif: Linux Libertine
@@ -628,3 +607,32 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
+
+.mobile-only
+  @media only screen and (min-width: 600px)
+    display: none
+.big-only
+  @media only screen and (max-width: 600px)
+    display: none
+
+.kidgenius-cta
+  text-align: center
+  .cta-button
+    background-color: #f06292
+    color: #FFFFFF !important
+    text-decoration: none !important
+    font-weight: bold
+    font-size: 20px
+    height: 54px
+    line-height: 56px
+    text-decoration: none
+    color: #fff
+    text-align: center
+    letter-spacing: .5px
+    border: none
+    border-radius: 2px
+    display: inline-block
+    outline: 0
+    padding: 0 2rem
+    text-transform: uppercase
+    box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)

@@ -65,17 +65,30 @@
           {{content}}
 
           <hr>
-          {% if is_kidgenius_post %}
-            <div style="text-align:center;">
-              <p>Do you run a child care center or dayhome? Sign up for KidGenius today!</p>
-              <a class="kidgenius-button" href="https://kidgenius.daycareiq.com/sign-up/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog">Get started for free</a>
-            </div>
-          {% else %}
-            <div style="text-align:center;">
-              <p>Have a child in daycare or in a dayhome? Want to know about your child's day? KidGenius is the perfect tool to keep you up to date.</p>
-              <a class="kidgenius-button" href="https://kidgenius.daycareiq.com/sign-up/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog">Get your childcare using KidGenius</a>
-            </div>
-          {% endif %}
+          <div class='kidgenius-cta'>
+            {% if is_kidgenius_post %}
+              <p>
+                Do you run a child care center or dayhome?
+              </p>
+              <p>
+                <a href="https://kidgenius.daycareiq.com/sign-up/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog" title="Get started on KidGenius">KidGenius</a> is the easiest way to share and connect with parents every day!
+              </p>
+              <a class='cta-button' href="https://kidgenius.daycareiq.com/sign-up/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog">
+                <span class="mobile-only">Start now!</span>
+                <span class="big-only">Get started for free!</span>
+              </a>
+            {% else %}
+              <p>
+                Have a child in daycare or a dayhome? Want to know about your child's day?
+              </p>
+              <p>
+                KidGenius is the perfect tool to keep you up to date. Let your caregivers know about <a href="https://kidgenius.daycareiq.com/sign-up/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog">KidGenius</a> now!
+              </p>
+              <a class='cta-button' href="https://kidgenius.daycareiq.com/sign-up/?utm_source=blog&utm_medium=blogpost&utm_campaign=blog">
+                Start now!
+              </a>
+            {% endif %}
+          </div>
         </section>
         <!-- post footer used to be here -->
         <div class="bottom-teaser cf">
