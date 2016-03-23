@@ -17,5 +17,5 @@ Critisms of the previous government benefits were that high income families got 
 
 Want to learn how much you should expect this year?  [Check out the online tool where you can calculate your expected benefit!](http://www.budget.gc.ca/2016/tool-outil/ccb-ace-en.html)  Keep in mind that the federal government will calculate the benefit based upon your adjusted net family income which is often lower than your total household income.
 
-Reach out to us and let us know what you think!  Email us at info@DaycareIQ.com!
+Reach out to us and let us know what you think!  Email us at [info@DaycareIQ.com](mailto:info@daycareiq.com)!
 
