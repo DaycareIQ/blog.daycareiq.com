@@ -12,7 +12,7 @@ author: cp
 ---
 On the DaycareIQ map, every location has a link to "Additional Data".  Where possible, we provided a link to the inspection data for the centre.  However this may vary depending on the province - find your province below to find out more information. 
 
-###Alberta###
+### Alberta ###
 
 For centres in Alberta, the _Additional Data_ link points to the [Province of Alberta's Child Care lookup page](http://www.humanservices.alberta.ca/oldfusion/ChildCareLookup.cfm).  The issue with this link is that the province of Alberta list's each program _within_ a centre as a separate entry.  For example, [Kids & Company - Red Deer](http://www.humanservices.alberta.ca/oldfusion/ChildCareLookup.cfm?s=search&sfid=&sinspd=&sinspc=&show=&sstype=pname&pname=kids+%26+company&pcity=RED+DEER++++++++++++&Lookup=Search&pcode=) has a daycare program and and out-of-school care program; they each get their own listing.  To make things easier, we list each location together, clumping all programs together.  Because of this, you may need to search for your desired location on the [provincial lookup tool](http://www.humanservices.alberta.ca/oldfusion/ChildCareLookup.cfm) to get all the various inspection data.  Email us if you would like more clarification!
 
