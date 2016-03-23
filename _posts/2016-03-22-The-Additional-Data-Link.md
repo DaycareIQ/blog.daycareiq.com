@@ -54,4 +54,4 @@ Like other provinces (Ontario and PEI), Saskatchewan does not allow direct links
 
 ----
 
-The goal for DaycareIQ is to provide parents with the most accurate and complete data on child care centres across the country.  Unfortunately, because every province handles their early child education differently, we are limited in what we can offer.  If you ever have questions about a location or a province, please don't hesitate to contact us.  We are here to help! You can email me personally at craig@DaycareIQ.com.
+The goal for DaycareIQ is to provide parents with the most accurate and complete data on child care centres across the country.  Unfortunately, because every province handles their early child education differently, we are limited in what we can offer.  If you ever have questions about a location or a province, please don't hesitate to contact us.  We are here to help! You can email me personally at [craig@DaycareIQ.com](mailto:craig@daycareiq.com?subject=Additional Data).
