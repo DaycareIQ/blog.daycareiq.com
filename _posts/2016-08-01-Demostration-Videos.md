@@ -6,7 +6,7 @@ tags:
   - Training
 title: Show and Tell!
 description: We've been working hard on some new features!  We created a few demonstration videos to show them off!
-published: true
+published: false
 author: cp
 ---
 ## Attendance Feature ##  
