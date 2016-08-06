@@ -15,7 +15,7 @@ First, it is important to understand that there is a difference between a *licen
 
 The Department of Human Services developed accreditation standards in 2011 together with key stakeholders from the child care industry. These standards are designed to recognize child care providers who provide the highest quality of care for Albertans.
 
-##How Does a Center Become Accredited?##
+## How Does a Center Become Accredited? ##
 
 For a centre to be considered accredited they must go through a process of self-evaluation and a quality enhancement process. In addition to these two steps, the centre must be recognized by the [Association of Early Learning in Care Services (AELCS)](http://www.aelcs.ca/Pages/default.aspx).
 
@@ -23,7 +23,7 @@ Hard work doesn't end when the centre becomes accredited. To maintain their accr
 
 These accreditation standards are designed to ensure that your child is receiving the care that he or she deserves.
 
-##How Do I Find Accredited Child Care?##
+## How Do I Find Accredited Child Care? ##
 
 **DayCareIQ** captures this information and allows parents to sort child care centres based on their accreditation status. We are committed to providing you the easiest way to search and apply for child care in your city.
 
