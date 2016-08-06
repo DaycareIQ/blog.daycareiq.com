@@ -14,11 +14,11 @@ tags:
 
 Great child care doesn't need to break the bank.  There are many great child care facilities out there that provide excellent care.  However, it is important for parents to be aware of the costs and prepare early.
 
-###Full Time vs Part Time###
+### Full Time vs Part Time ###
 
 The biggest factor when it comes to cost of child care is whether you are looking for full time (typically 5 days/week) or part time child care (less than 5 days/week).  It is important to ask the child care provider about their fee's upfront, especially if you are looking for part time care.  Often part time care comes at a higher cost per day.  This is due to the fact that the facility will likely still need to have the same number of staff on duty for those days when your kid isn't present.
 
-###Monthly Full Time Cost###
+### Monthly Full Time Cost ###
 
 A good source of information about the cost of child care services in Canada, and Alberta was a report put out by the Canadian Centre For Policy Alternatives called *The Parent Trap*.  If you are interested, you can read the report yourself by clicking on the link [here](https://www.policyalternatives.ca/sites/default/files/uploads/publications/National%20Office/2014/11/Parent_Trap.pdf).  
 
@@ -30,17 +30,17 @@ For toddlers, Calgary continues to have a slightly higher average monthly fee th
 
 For preschoolers, the cost drops once again.  Calgary preschoolers cost on average $924 while counterparts in Edmonton should expect to pay around $746/month.
 
-###The Price Drop###
+### The Price Drop ###
 
 You may have noticed above that the average monthly cost declined as children got older.  The biggest reason for this drop is the staff to child ratio's that licensed child care facilities are required to adhere to.  For example, in Alberta, there must be 1 staff member for every 3 children under 12 months of age.  That same staff member could care for 10 children that are 4.5 years or older!  The younger the child, the more staff needed.  So you can see that it costs a facility more to care for an infant than a preschool or school age child.
 
 If you want to learn more about staffing of child care facilities, [check out our blog post dedicated to that topic!](http://blog.daycareiq.com/2015-Staffing-Requirements/)
 
-###Pay Attention To The Extra's!###
+### Pay Attention To The Extra's! ###
 
 When registering for child care, be sure to ask about all the fee's associated with the child care.  Many facilities will require an additional material fee, field trip fee or meal fee.  These extra fee's can add up and therefore it is important to include these in the monthly or annual cost of child care.
 
-###What If I Can't Afford Child Care?###
+### What If I Can't Afford Child Care? ###
 
 Don't worry!
 
