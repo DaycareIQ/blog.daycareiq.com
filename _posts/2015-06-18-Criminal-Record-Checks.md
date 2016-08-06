@@ -20,7 +20,7 @@ The [Alberta Child Care Regulation](http://www.qp.alberta.ca/documents/Regs/2008
  
 Staff may start working at a location without the criminal record check in place, however as per section 25(2) A of the provincial regulation the staff must provide the criminal record check within 8 weeks, and until then, they must not have any unsupervised access to the children.
 
-###What About Family Day Homes?###
+### What About Family Day Homes? ###
 
 In family day homes, there may be other members of the household that don't provide any care for the children, but are still present during the day.  This issue is very clearly outlined in the [Family Day Home Standards Manual for Alberta](http://humanservices.alberta.ca/documents/family-day-home-standards-manual.pdf).  On page 17, the manual says;
 
