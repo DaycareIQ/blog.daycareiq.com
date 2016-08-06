@@ -10,7 +10,7 @@ description: People often ask us why we created DaycareIQ.  Where did we get the
 published: true
 ---
 
-##Why Did We Create DaycareIQ?
+## Why Did We Create DaycareIQ? ##
 
 When we talk to people about DaycareIQ, they always ask us why we created the site?  What motivated us? What was the driving motivation?  Well it's time to share the back story and let you know why we created the site and what we hope to accomplish.
 
