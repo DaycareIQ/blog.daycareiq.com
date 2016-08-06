@@ -10,7 +10,7 @@ author: cp
 ---
 On May 5, 2015, nearly 1.5 million Albertan's turned out to vote in the latest provincial election.  With 40.6% of the vote, Rachel Notley's NDP party took over power in the provincial legislature.  This change in power will likely bring many changes to the province.  Here at DaycareIQ, we had been following the election with a keen eye on how this may affect child care in Alberta.  Now that the results are in, we are able to analyse the NDP position on child care.
 
-##What Does Their Platform Say?##
+## What Does Their Platform Say? ##
 
 The NDP have a fairly clear direction for child care in Alberta.  In their published [platform](http://d3n8a8pro7vhmx.cloudfront.net/themes/5538f80701925b5033000001/attachments/original/1431112969/Alberta_NDP_Platform_2015.pdf?1431112969), the NDP propose the following;
 
@@ -27,7 +27,7 @@ The second, and perhaps bigger campaign promise is to move towards $25-a-day chi
 
 But don't hold your breath for $25-a-day child care.  The NDP in their platform even say "as Alberta's finances permit" when speaking about the cost reduction.  The problem is that child care operators won't simply reduce their prices to $25-a-day.  For this plan to work, the government will have to make up the difference in cost.  Basically the operator would still charge $45-a-day (for example), the parent would be responsible for $25 and the government would kick in the remaining $20.  Therefore the government needs to get the money from somewhere.  So unless we have a huge increase in the price of oil, it is unlikely we will see the $25-a-day child care any time soon.  The NDP also intend to raise corporate income tax and perhaps that will produce enough revenue for the province to re-invest in cheaper child care.
 
-##Is $25-A-Day Child Care New?##
+## Is $25-A-Day Child Care New? ##
 
 Quebec has a provincially funded child care system that for awhile was only $7.30 per day!!  However, in late 2014, the provincial government decided to [modify the program](http://www.cbc.ca/news/canada/montreal/quebec-daycare-fees-to-climb-to-20-per-day-for-highest-earning-families-1.2841994) and adjust the rates depending on your income.  So parents that make more each year, will be required to pay more for child care.  The Alberta NDP and Rachel Notley have put their goal at $25-a-day which will mean less burden on the provincial expenditures and perhaps reduce the likelihood of having to adjust the program later like in Quebec.
 
