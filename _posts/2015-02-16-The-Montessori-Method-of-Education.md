@@ -11,11 +11,11 @@ published: true
 `Full Disclosure - we are not experts in the Montessori Method.  The following post is based upon our research using various websites.  We wanted those that have never heard of Montessori or weren't sure what it meant to have a high level idea of what Montessori is all about, and we think we provide that below!  If you have questions or would like to read more, I have included some links to more information at the bottom.`
 
 
-###The History of The Montessori Method
+### The History of The Montessori Method ###
 
 The Montessori educational approach was developed by an Italian educator by the name of Maria Montessori (now you know where the name came from!).  Her methods started to spread around Europe in the early 1900's.  The Montessori method actually has a unique Canadian connection; Alexander Graham Bell was attracted to the new educational approach and helped to open the second North American location.
 
-###The Montessori Method
+### The Montessori Method ###
 
 One of the biggest differences between regular child care and the Montessori Method is the age mix of programs.  Typical child care divides the children into groups of similar ages.  For example, you will read about infant programs, pre-school programs and school age programs each of which contain children within a specific range.  The Montessori Method encourages groups of mixed ages where children can learn from each other.  The idea is that the younger children will look to the older children and learn from them.
 
@@ -27,20 +27,15 @@ The Montessori Method utilizes sensory-motor activities that enhance and improve
 
 Moving on beyond the early development period, children will begin to utilize specific Montessori Method materials that further promote critical thinking and teamwork.
 
-#####Montessori Teachers
+##### Montessori Teachers #####
 
 Montessori centres and lead by trained teachers.  They are experts in the development and delivery of the Montessori Method.  They are advocates for the educational approach and able to help your child exceed.
 
-#####Montessori Alumni
+##### Montessori Alumni #####
 
 The Montessori Method has some famous alumni, including Sergey Brin and Larry Page, founders of Google.  The famous chef, Julia Child was also part of a Montessori centre as a child.  Perhaps your child will become a *famous alumni*.
 
-#####More Information
+##### More Information #####
 
 Above is only the tip of the ice berg when it comes to the Montessori Method.  For more information, visit the website of the [Montessori Society of Canada](http://www.montessorisocietycanada.org/) or the [American Montessori Society](http://amshq.org/).  Even better, visit the page of one of the many Montessori programs we have listed at DaycareIQ and contact the owner to schedule a tour! 
-
-
-
-
-
 
