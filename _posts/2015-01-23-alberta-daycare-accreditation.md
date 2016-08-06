@@ -27,7 +27,7 @@ These accreditation standards are designed to ensure that your child is receivin
 
 **DayCareIQ** captures this information and allows parents to sort child care centres based on their accreditation status. We are committed to providing you the easiest way to search and apply for child care in your city.
 
-##What Are Some Examples Of Accreditation Standards##
+## What Are Some Examples Of Accreditation Standards ##
 
 >Child care programs demonstrate respectful, positive interactions and communications with children.
 
