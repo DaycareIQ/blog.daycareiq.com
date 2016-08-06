@@ -13,7 +13,7 @@ published: true
 ---
 With the federal election over, the political picture in this country is a little bit clearer.  Rachel Notley and the Alberta NDP party released the 2015 budget.  You can read the whole thing [here](http://finance.alberta.ca/publications/budget/budget2015-october/index.html) but we at DaycareIQ know you are busy and want to summarize the sections important to child care.
 
-#Alberta Child Benefit
+# Alberta Child Benefit #
 
 The biggest change is the introduction of the *Alberta Child Benefit*.  This benefit provides up to $2 750 per year for Alberta families with less than $41 220 in annual income.  It is expected to help nearly 235 000 children in the province.
 
@@ -23,7 +23,7 @@ The benefit amount does depend on the number of children you have, but also your
 
 To receive the benefit, you must submit an provincial income tax return (even if you do not pay provincial income tax).  For families that meet the income requirements and that currently receive the *Alberta Family Employment Tax Credit* (see below), they will automatically be enrolled.
 
-#Alberta Family Employment Tax Credit (AFETC)
+# Alberta Family Employment Tax Credit (AFETC) #
 
 The NDP government has also adjusted the AFETC to help working families with children.  Two changes to this benefit will help Alberta families.  
 
