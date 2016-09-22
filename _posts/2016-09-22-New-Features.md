@@ -20,7 +20,7 @@ I'd like to introduce you to some of these new features and explain how they wor
 
 KidGenius has always been about connections between parents and child care providers - this is why daily report cards are sent!  One of our Calgary area child care centres came to us asking if multiple parents could receive the daily report card.  We thought to ourselves... why not?!
 
-Child care operators can now add mutliple contacts to each child's profile.  This includes Mom, Dad, Grandma, Grandpa and even emergency contacts.  Any contact can be given access to the child's information if the parent chooses.  For example, it might not make sense to send the daily report card to the emergency contact everyday, but Grandma and Grandpa might like to keep up to date!
+Child care operators can now add multiple contacts to each child's profile.  This includes Mom, Dad, Grandma, Grandpa and even emergency contacts.  Any contact can be given access to the child's information if the parent chooses.  For example, it might not make sense to send the daily report card to the emergency contact everyday, but Grandma and Grandpa might like to keep up to date!
 
 This feature is available to ALL KidGenius customers!
 
@@ -40,7 +40,7 @@ We've been told by multiple child care administrators that this will save them H
 
 ### Bottles and E-Transfers
 
-When we first designed KidGenius, we thought long and hard about the possible features staff would need.  However it was envitable that we missed some.  That's why we were happy to add some when requested by another Calgary location.
+When we first designed KidGenius, we thought long and hard about the possible features staff would need.  However it was inevitable that we missed some.  That's why we were happy to add some when requested by another Calgary location.
 
 Introducing Bottles and E-Transfers!
 
