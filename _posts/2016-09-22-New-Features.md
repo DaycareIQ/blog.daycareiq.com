@@ -46,16 +46,16 @@ Introducing Bottles and E-Transfers!
 
 Staff can now indicate a child was given a bottle, and at what time and how much they had! 
 
-![Attendance Feature!](https://blog.daycareiq.com/site_assets/images/bottle.png)
+![Bottle!](https://blog.daycareiq.com/site_assets/images/bottle.png)
 
 The same was true for payments... we thought we captured all possible payment types (Credit Card, Cash, Cheque and Pre-Authorized Debit).  Turns out we forgot about E-Transfers, or sometimes referred to as Interac Transfers.  We recieved this request and quickly put it in place!
 
-![Attendance Feature!](https://blog.daycareiq.com/site_assets/images/e_transfer.png)
+![E-Transfer!](https://blog.daycareiq.com/site_assets/images/e_transfer.png)
 
 ### Payroll Attendance
 
 KidGenius has always been about making administrative tasks easier.  Everyone that gets into the child care business is doing it for their love of children, not for their love of paper work!  Staff attendance has always been available but the reporting feature was somewhat lacking.  A Calgary location let us know that a monthly staff attendance report doesn't work since their payroll runs from the 27th of one month, to the 26th of another month!  We quickly made the change to allow them to produce reports based upon their own date requirements!
 
-![Attendance Feature!](https://blog.daycareiq.com/site_assets/images/staff_date.png)
+![Staff Attendance Reporting!](https://blog.daycareiq.com/site_assets/images/staff_date.png)
 
 These are just some of the features we have built recently, there are many more minor tweaks we have made that we think make KidGenius an even greater product!  If you are interested in trying out KidGenius, let us know, we'd love to have you on board.  If you have any feature requests, let us know, we will take a look and if we can build them, we will!  
