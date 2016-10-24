@@ -95,4 +95,4 @@ It's important to be able to respond to medical issues.  We added a medical icon
 
 We somehow found time to make 2 great changes to the daily reports.  The photos are now shown directly in the emails (no more opening a separate link).  We also removed any sections that had no entries.  This will clean up the reports a little bit!
 
-### There are two other major improvements... so big that I will be writing a separate blog post about them!
+### There are two other major improvements... so big that I will be writing a separate blog post about them!  [Read it here!](https://blog.daycareiq.com/2016-Live-View-and-In-App-Messaging)
