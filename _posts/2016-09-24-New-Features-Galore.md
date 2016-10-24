@@ -26,6 +26,7 @@ Just like programs, it is important to know how many staff and children are chec
 
 ![Location Ratio!](https://blog.daycareiq.com/site_assets/images/location ratios.png)
 
+
 ### Nap Improvements
 
 This is something we heard over and over - we just *had* to fix it!  Now you don't need to enter an **End Time** for a nap.  You just enter the start time and can come back and edit the nap later...check out the Daily Log to see how easy this is!
@@ -33,6 +34,12 @@ This is something we heard over and over - we just *had* to fix it!  Now you don
 For kids that don't nap, just enter the time you tried to put them down and make a comment like you see below.
 
 ![Nap Improvements!](https://blog.daycareiq.com/site_assets/images/no nap.png)
+
+### Daily Log
+
+We think this is a game changer!  Each program now has a daily log.  You can review all the items you have added each day for all the children.  You can make sure that you record meals for every child or that all naps were recorded (this is also a great place to add the end times when children start to wake up!).  You can filter by actions... for example, so only activities or meals.  This will be very useful! 
+
+![Daily Log!](https://blog.daycareiq.com/site_assets/images/daily_activity_log.png)
 
 ### Meal Time Improvements
 
