@@ -10,8 +10,7 @@ description: Wow - we have a great crop of new features to show you!  You will b
 published: false
 author: cp
 ---
-
-There are so many features we better get started!
+There are so many features we can't waste a minute - we better get started! 
 
 ###Program Ratios
 
