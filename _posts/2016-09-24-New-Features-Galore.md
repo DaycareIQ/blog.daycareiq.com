@@ -39,6 +39,8 @@ For kids that don't nap, just enter the time you tried to put them down and make
 
 We think this is a game changer!  Each program now has a daily log.  You can review all the items you have added each day for all the children.  You can make sure that you record meals for every child or that all naps were recorded (this is also a great place to add the end times when children start to wake up!).  You can filter by actions... for example, so only activities or meals.  This will be very useful! 
 
+You can access the Daily Log from the program pages!
+
 ![Daily Log!](https://blog.daycareiq.com/site_assets/images/Daily_activity_log.png)
 
 ### Meal Time Improvements
