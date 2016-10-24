@@ -10,7 +10,9 @@ description: Wow - we have a great crop of new features to show you!  You will b
 published: false
 author: cp
 ---
-There are so many features we can't waste a minute - we better get started! 
+Our goal is to make connecting with parents easier and make administrative tasks simpler.  Here we introduce a bunch of new features!
+
+There are so many features we can't waste a minute - let's get started! 
 
 ###Program Ratios
 
