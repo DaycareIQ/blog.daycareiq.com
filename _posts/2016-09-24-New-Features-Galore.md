@@ -7,7 +7,7 @@ tags:
   - Features
 title: New Features GALORE!
 description: Wow - we have a great crop of new features to show you!  You will be amazed!
-published: false
+published: true
 author: cp
 ---
 Our goal is to make connecting with parents easier and make administrative tasks simpler.  Here we introduce a bunch of new features!
