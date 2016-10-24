@@ -76,6 +76,12 @@ Sometimes you need to capture a bit more information than just the amount and da
 
 ![Payment Notes!](https://blog.daycareiq.com/site_assets/images/payment notes.png)
 
+### Allergy/Medical Alerts
+
+It's important to be able to respond to medical issues.  We added a medical icon to alert you to children with allergies or medical issues.
+
+![Alert Icon!](https://blog.daycareiq.com/site_assets/images/allergy.png)
+
 ### Daily Report Emails
 
 We somehow found time to make 2 great changes to the daily reports.  The photos are now shown directly in the emails (no more opening a separate link).  We also removed any sections that had no entries.  This will clean up the reports a little bit!
