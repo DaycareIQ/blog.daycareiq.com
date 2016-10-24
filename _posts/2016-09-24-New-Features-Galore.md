@@ -61,7 +61,7 @@ One of our customers asked us to make requesting diapers, wipes and other common
 
 ![Item Requests!](https://blog.daycareiq.com/site_assets/images/quick_requests.gif)
 
-### Selecting Children Improvements
+### Improvements to Selecting Multiple Children
 
 The old way of selecting children was a bit clumsy, we made it better.... waaaaay better.  Now the menu stays open each time you select a child!
 
