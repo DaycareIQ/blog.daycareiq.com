@@ -87,7 +87,7 @@ Sometimes you need to capture a bit more information than just the amount and da
 
 ### Allergy/Medical Alerts
 
-It's important to be able to respond to medical issues.  We added a medical icon to alert you to children with allergies or medical issues.
+It's important to be able to respond to medical issues.  We added a medical icon to alert you to children with allergies or medical issues.  You can enable this icon by editing the child's details and clicking off the checkbox near the bottom.
 
 ![Alert Icon!](https://blog.daycareiq.com/site_assets/images/allergy.png)
 
