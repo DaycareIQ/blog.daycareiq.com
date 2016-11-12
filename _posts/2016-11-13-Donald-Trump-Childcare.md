@@ -39,10 +39,10 @@ A few additional notes provided by the Trump campaign.
 
 - Some of these promises also apply to elder care.  You can read more at the link above, as well as in this [document](https://assets.donaldjtrump.com/Childcare_Reform.pdf)
 
-Thanks for reading - please [emailus](mailto://craig@daycareiq.com) if you have questions.  We'd love to discuss the changes!
+Thanks for reading - please [email us](mailto://craig@daycareiq.com) if you have questions.  We'd love to discuss the changes!
 
 ----
 
 If you'd like to watch President Elect Trump introduce his childcare changes, you can watch the video below.
 
-{% include youtubePlayer.html id="zg4rxRgIJiM" %}
+{% include youtubePlayer.html id="gNieyVSXmus" %}
