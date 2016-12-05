@@ -6,7 +6,7 @@ tags:
   - child care
   - Features
   - Bulletin Board
-title: Introducing Bulletin Board!
+title: Introducing Bulletin Boards by KidGenius!
 description:  Sharing monthly/weekly menu's, newsletters and forms has never been easier!
 published: true
 author: cp
