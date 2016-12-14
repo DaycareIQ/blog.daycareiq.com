@@ -6,7 +6,7 @@ tags:
   - child care
   - Features
   - Bulletin Board
-title: Making Great Newsletters, Menus and more!
+title: Making Great Newsletters, Menus and More!
 description:  Now that you can manage your bulletin boards through KidGenius, make your posts beautiful using Canva, our favourite design tool.
 published: true
 author: cp
