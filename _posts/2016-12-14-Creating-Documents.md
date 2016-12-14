@@ -17,8 +17,9 @@ Earlier in December, we introduced [Bulletin Boards](http://blog.daycareiq.com/2
 </p>
 
 We created our *Parent Info Document* seen below in Canva in only 10 minutes!  Seriously!
-
-![Parent Info Document](https://blog.daycareiq.com/site_assets/images/Parent_Info_Sheet.png)
+<p align="center">
+  <img src="https://blog.daycareiq.com/site_assets/images/Parent_Info_Sheet.png">
+</p>
 
 Canva is super easy to use... think drag and drop!  And even includes some free stock photos.
 
