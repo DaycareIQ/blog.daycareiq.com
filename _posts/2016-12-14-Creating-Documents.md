@@ -11,10 +11,18 @@ description:  Now that you can manage your bulletin boards through KidGenius, ma
 published: true
 author: cp
 ---
-Earlier in December, we introduced [Bulletin Boards](http://blog.daycareiq.com/2016-Bulletin-Board).  Our customers are already using their bulletin board to share menus, newsletters, forms and activity planners!  We have had a great response so far.  We wanted to quickly share our favourite tool for making beautiful documents, [Canva](https://www.canva.com).  We think it will take your documents to the next level, all while saving you time!
+Earlier in December, we introduced [Bulletin Boards](http://blog.daycareiq.com/2016-Bulletin-Board).  Our customers are already using their bulletin board to share menus, newsletters, forms and activity planners!  We have had a great response so far.  We wanted to quickly share our favourite tool for making beautiful documents, [Canva](https://www.canva.com).  We think it will take your documents to the next level, all while saving you time!  
 
-<img align="center" src="https://blog.daycareiq.com/site_assets/images/Canva_Logo.png">
-<div style="image-align:center"><img src ="https://blog.daycareiq.com/site_assets/images/Canva_Logo.png" /></div>
+1  
+<img align="center" src="https://blog.daycareiq.com/site_assets/images/Canva_Logo.png">  
+
+2  
+<div style="image-align:center"><img src ="https://blog.daycareiq.com/site_assets/images/Canva_Logo.png" /></div>  
+
+3
+<p align="center">
+  <img src="https://blog.daycareiq.com/site_assets/images/Canva_Logo.png">
+</p>
 
 We created our *Parent Info Document* seen below in Canva in only 10 minutes!  Seriously!
 
