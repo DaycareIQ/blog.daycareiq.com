@@ -14,7 +14,7 @@ author: cp
 Earlier in December, we introduced [Bulletin Boards](http://blog.daycareiq.com/2016-Bulletin-Board).  Our customers are already using their bulletin board to share menus, newsletters, forms and activity planners!  We have had a great response so far.  We wanted to quickly share our favourite tool for making beautiful documents, [Canva](https://www.canva.com).  We think it will take your documents to the next level, all while saving you time!
 
 <p align="center">
-  <img https://blog.daycareiq.com/site_assets/images/Canva_Logo.png>
+  <img /https://blog.daycareiq.com/site_assets/images/Canva_Logo.png>
 </p>
 ![Canva](https://blog.daycareiq.com/site_assets/images/Canva_Logo.png)
 
