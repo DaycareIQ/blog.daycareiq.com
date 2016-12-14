@@ -13,11 +13,11 @@ author: cp
 ---
 Earlier in December, we introduced [Bulletin Boards](http://blog.daycareiq.com/2016-Bulletin-Board).  Our customers are already using their bulletin board to share menus, newsletters, forms and activity planners!  We have had a great response so far.  We wanted to quickly share our favourite tool for making beautiful documents, [Canva](https://www.canva.com).  We think it will take your documents to the next level, all while saving you time!
 
-![Canva](https://blog.daycareiq.com/site_assets/images/canva_logo.png)
+![Canva](https://blog.daycareiq.com/site_assets/images/Canva_Logo.png)
 
 We created our *Parent Info Document* seen below in Canva in only 10 minutes!  Seriously!
 
-![Canva](https://blog.daycareiq.com/site_assets/images/parent_info_sheet.png)
+![Canva](https://blog.daycareiq.com/site_assets/images/Parent_Info_Sheet.png)
 
 Canva is super easy to use... think drag and drop!  And even includes some free stock photos.
 
