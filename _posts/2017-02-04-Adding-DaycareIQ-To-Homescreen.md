@@ -9,7 +9,7 @@ description: For parents that are using DaycareIQ/KidGenius to keep track of you
 published: true
 author: cp
 ---
-Have you created an account on DaycareIQ yet?  By doing so you can access your childs' KidGenius updates any time during the day.  You can even access past events such as photos, notes and activities.  We created a short video to show you how to add a special icon on your home screen for quick and easy access.
+Have you created an account on DaycareIQ yet?  By doing so you can access your childs' KidGenius updates any time during the day.  You can even access past events such as photos, notes and activities.  We created a short video to show you how to add a special icon on your home screen for quick and easy access.  We also list the steps here.
 
 1. Open up Safari (doesn't work in Chrome browser)
 2. Navigate to DaycareIQ.com
