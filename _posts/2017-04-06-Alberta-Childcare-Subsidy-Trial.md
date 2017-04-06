@@ -5,7 +5,7 @@ tags:
   - NDP
   - Alberta
   - Subsidy
-title: Alberta Introduces $25 A Day Childcare Pilot.
+title: Alberta Introduces $25-A-Day Childcare Pilot
 description: Today the Alberta provincial government introduced a $25-A-Day childcare pilot.
 published: true
 author: cp
