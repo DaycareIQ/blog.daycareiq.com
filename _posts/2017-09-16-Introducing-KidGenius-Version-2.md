@@ -38,6 +38,12 @@ A very common email we received in the past was along the lines of *"I forgot to
 
 ![Editing A Record](https://blog.daycareiq.com/site_assets/images/edit_record.png)
 
+### Program Daily Activity Log
+
+You can now view an daily log of all the things you've recorded for a program!  You can even go back in time to view previous days!  This was a frequently requested feature!
+
+![Daily Activity Log](https://blog.daycareiq.com/site_assets/images/daily_log.png)
+
 ### Subsidy Fee Field
 
 In version 1 of KidGenius you could track whether or not the child received a government subsidy and their total fee.  At the request of a different customer, we added the Subsidy Fee field.
