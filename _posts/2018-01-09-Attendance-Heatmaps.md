@@ -8,7 +8,9 @@ description: Knowing attendance patterns for children can be helpful when planni
 published: true
 author: cp
 ---
-The attendance features of KidGenius are by far the most popular features we have.  With the latest addition, we set out to improve your understanding of when kids attend (or don't attend).  So today we've released **Attendance Heatmaps**.  In each childs' profile, you'll see a heatmap of their attendance at the very top (see below for an example).
+The attendance features of KidGenius are by far the most popular features we have.  With the latest addition, we set out to improve your understanding of when kids attend (or don't attend).  So today we've released **Attendance Heatmaps**.  
+
+In *each childs' profile*, you'll see a heatmap of their attendance at the very top (see below for an example).
 
 ![Attendance Heatmap](https://blog.daycareiq.com/site_assets/images/heatmap.png)
 
