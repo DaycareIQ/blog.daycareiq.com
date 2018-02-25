@@ -4,7 +4,7 @@ tags:
   - childcare
   - attendance
   - new feature
-title: Create New, Unique Filters - Get Creative! Plus A New App!
+title: A New Way To Search - Plus A New App!
 description: We've added a new search field which will allow you to expand the usefulness of KidGenius!
 published: true
 author: cp
@@ -13,7 +13,7 @@ We've added a new feature which will allow you to get your creative juices flowi
 
 ### Attendance Tool and New App!
 
-The main reason we added this new feature was to pair with our new [KidGenius Attendance Tool](https://itunes.apple.com/ca/app/kidgenius-attendance-tool/id1351641914?mt=8) that was released in the Apple App Store today!!  It is designed for iOS devices such as iPhones and iPads.  You can use it as a check in and out tool at the front door of your centre.  Families pick their own unique ID number or word and you add it to their kids account(s).  When they come to check in, they enter the number or word and can check in/out their children.  You can also use it for staff check in/out!
+The main reason we added this new feature was to pair with our new [KidGenius Attendance Tool](https://itunes.apple.com/ca/app/kidgenius-attendance-tool/id1351641914?mt=8) that was released in the Apple App Store today (PS It's free)!!  It is designed for iOS devices such as iPhones and iPads.  You can use it as a check in and out tool at the front door of your centre.  Families pick their own unique ID number or word and you add it to their kids account(s).  When they come to check in, they enter the number or word and can check in/out their children.  You can also use it for staff check in/out!
 
 ![Attendance App](https://blog.daycareiq.com/site_assets/images/ipad_demo.gif)
 
