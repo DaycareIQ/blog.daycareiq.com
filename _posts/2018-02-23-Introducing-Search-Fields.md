@@ -57,6 +57,13 @@ You can add/edit the new field in both the child and staff profile pages.  See b
 
 ![Search Field](https://blog.daycareiq.com/site_assets/images/child_edit.gif)
 
+## Full Demo
+
+Here is a full demo of us searching for kids that come in early in the morning.  We added the word 'early' to their search field.  Once we search for this word, it will show us only these kids.
+
+![Full Demo In Action](https://blog.daycareiq.com/site_assets/images/early_demo.gif)
+
+
 
 
 
