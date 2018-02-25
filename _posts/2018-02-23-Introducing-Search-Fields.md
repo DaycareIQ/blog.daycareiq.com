@@ -41,7 +41,7 @@ Can't remember the child's name, but you can remember their parents name?  Just 
 
 ### Special Diets
 
-Want to keep track of how many special diets you have at your site?  Just enter them into the new field and then you can easily search by them.
+Want to keep track of how many special diets you have at your site?  Just enter them into the new field and then you can easily search by them.  You can also use this for personal tagging - get creative!
 
 ![Special Diets or Allergies](https://blog.daycareiq.com/site_assets/images/special_diet.gif)
 
