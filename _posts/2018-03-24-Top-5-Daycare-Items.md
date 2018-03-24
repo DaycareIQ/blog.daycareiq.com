@@ -41,4 +41,4 @@ Everyone knows a good nap is key to a good day!  This dino nap map will make sle
 
 And now our number 1 item every daycare and dayhome needs!  Everyone knows that keeping kids together is like hearding cats! It won't be hard with this walking rope! 12 loops will keep kids together on walks to the park or to school.  Click [here to check out the walking rope on Amazon](https://amzn.to/2G59tE3)!
 
-<a href="https://amzn.to/2G59tE3" rel="A Walking Rope" target="_blank">![Foo](https://blog.daycareiq.com/site_assets/images/walkingrope.jpg)]</a>
+<a href="https://amzn.to/2G59tE3" rel="A Walking Rope" target="_blank">![A Walking Rope for only $20](https://blog.daycareiq.com/site_assets/images/walkingrope.jpg)</a>
