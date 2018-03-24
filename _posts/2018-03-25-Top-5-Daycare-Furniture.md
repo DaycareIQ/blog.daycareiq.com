@@ -6,7 +6,7 @@ tags:
 description: We did the research and now we present the top 5 pieces of furniture every daycare needs!
 title: The Top 5 Pieces of Furniture Every Daycare Needs!
 author: cp
-published: false
+published: true
 ---
 
 We've done some research, talked with current daycare directors and came up with the top 5 pieces of furniture every daycare needs right now!
