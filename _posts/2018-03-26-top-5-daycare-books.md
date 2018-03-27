@@ -22,7 +22,7 @@ Hopefully you don't need this book, but if you do, it'll be a great resource to 
 
 This is our second book on our list by Elizabeth Verdick!  This book should inspire the kiddo's to help when it is time to clean up!  Always a tough task!  Click [here to check out the book on Amazon](https://amzn.to/2Gd3pFr)!
 
-<a href="https://amzn.to/2Gd3pFr" rel="Clean-Up Time!" target="_blank">![Clean-Up Time!](https://blog.daycareiq.com/site_assets/images/cleanup.jpeg)</a>
+<a href="https://amzn.to/2Gd3pFr" rel="Clean-Up Time!" target="_blank">![Clean-Up Time!](https://blog.daycareiq.com/site_assets/images/cleanup.jpg)</a>
 
 ### Book #3 - I Love To Go To Daycare by Shelley Admont $12
 
