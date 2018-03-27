@@ -16,13 +16,13 @@ _Editors Note: The links below are affiliate links.  That means that if you buy 
 
 Hopefully you don't need this book, but if you do, it'll be a great resource to have!  Written for even the youngest of toddlers, the lessons here should help prevent violence between children. [Check it out on Amazon](https://amzn.to/2GhaZze)!
 
-<a href="https://amzn.to/2GhaZze" rel="Hands Are Not For Hitting" target="_blank">![Hands Are Not For Hitting](https://blog.daycareiq.com/site_assets/images/hands.jpg)</a>
+<a href="https://amzn.to/2GhaZze" rel="Hands Are Not For Hitting" target="_blank">![Hands Are Not For Hitting](https://blog.daycareiq.com/site_assets/images/hands.jpeg)</a>
 
 ### Book #4 - Clean-Up Time by Elizabeth Verdick $11
 
 This is our second book on our list by Elizabeth Verdick!  This book should inspire the kiddo's to help when it is time to clean up!  Always a tough task!  Click [here to check out the book on Amazon](https://amzn.to/2Gd3pFr)!
 
-<a href="https://amzn.to/2Gd3pFr" rel="Clean-Up Time!" target="_blank">![Clean-Up Time!](https://blog.daycareiq.com/site_assets/images/hands.jpeg)</a>
+<a href="https://amzn.to/2Gd3pFr" rel="Clean-Up Time!" target="_blank">![Clean-Up Time!](https://blog.daycareiq.com/site_assets/images/cleanup.jpeg)</a>
 
 ### Book #3 - I Love To Go To Daycare by Shelley Admont $12
 
