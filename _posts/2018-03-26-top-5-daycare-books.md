@@ -41,3 +41,5 @@ The llama books by Anna Dewdney are popular for a reason - because they are so g
 This book is great - and that's why it is number 1 on our list.  It will help a new child transition into your centre.  Plus it's a board book, so it can stand up to your chewiest of toddlers!  Click [here to preview this amazing book on Amazon](https://amzn.to/2pHlfKD)!
 
 <a href="https://amzn.to/2pHlfKD" rel="Bye-Bye Time" target="_blank">![Bye-Bye Time](https://blog.daycareiq.com/site_assets/images/byebye.jpg)</a>
+
+All the above prices are in Canadian dollars.  If you are browsing from another country, Amazon should provide a redirect to your local store!
