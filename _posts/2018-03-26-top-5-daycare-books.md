@@ -26,7 +26,7 @@ This is our second book on our list by Elizabeth Verdick!  This book should insp
 
 ### Book #3 - I Love To Go To Daycare by Shelley Admont $12
 
-Number 3 on the list is this I Love To Go To Daycare!  The book is about Jimmy the bunny, the day before he starts daycare for the first time!  The great thing about this book is it comes in many languages such as [Korean](https://amzn.to/2G9fyPU), [Italian](https://amzn.to/2pJJcko), [German](https://amzn.to/2DXZavw), [Spanish](https://amzn.to/2GaNqMr), [Tagalog](https://amzn.to/2GfiKFy), [French](https://amzn.to/2pI2kzx), [Madarin](https://amzn.to/2G99A1u), and [Russian](https://amzn.to/2ITMxWg).  Perfect your multi-lingual centre!  Click here for the [English version](https://amzn.to/2pGRHNo)!
+Number 3 on the list is this I Love To Go To Daycare!  The book is about Jimmy the bunny, the day before he starts daycare for the first time!  The great thing about this book is it comes in many languages such as [Korean](https://amzn.to/2G9fyPU), [Italian](https://amzn.to/2pJJcko), [German](https://amzn.to/2DXZavw), [Spanish](https://amzn.to/2GaNqMr), [Tagalog](https://amzn.to/2GfiKFy), [French](https://amzn.to/2pI2kzx), [Mandarin](https://amzn.to/2G99A1u), and [Russian](https://amzn.to/2ITMxWg).  Perfect your multi-lingual centre!  Click here for the [English version](https://amzn.to/2pGRHNo)!
 
 <a href="https://amzn.to/2pGRHNo" rel="I Love To Go To Daycare!" target="_blank">![I Love To Go To Daycare!](https://blog.daycareiq.com/site_assets/images/lovetogo.jpg)</a>
 
